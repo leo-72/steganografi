@@ -16,7 +16,7 @@ Project is created with:
 * Numpy: 1.21.3
 * Pyfiglet: 0.8.post1
 	
-## How to setup
+## Setup
 ```
 $ git clone https://github.com/leo-72/steganografi
 $ cd steganografi
