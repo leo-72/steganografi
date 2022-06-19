@@ -1,6 +1,7 @@
 <h1 align="center">STEGANOGAFI</h1>
 <h2 align="center">Put the Hidden Message or Text into Image</h2>
 
+---
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -23,3 +24,4 @@ $ cd steganografi
 $ pip install -r requirements.txt
 $ python steganografi.py
 ```
+---
