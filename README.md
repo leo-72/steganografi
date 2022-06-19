@@ -1,4 +1,5 @@
 <h1 align="center">STEGANOGAFI</h1>
+
 ---
 ## Table of contents
 * [General info](#general-info)
