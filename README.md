@@ -4,7 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Setup](#install)
 
 ## General info
 This application to put the Hidden Message or Text into Image (.PNG)
